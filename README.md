@@ -1,5 +1,7 @@
 # 🚲 London Bike Rental Points: Stations & Availability
 
+the app : https://seddikshiny.shinyapps.io/BikeExo/
+
 This Shiny app displays an **interactive map of bike-sharing stations in London**.  
 Each station shows:
 
